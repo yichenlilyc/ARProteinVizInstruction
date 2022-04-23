@@ -7,9 +7,11 @@ Before you start, please download and print the markers, the markers can be foun
 ![](https://i.imgur.com/yjwMcpu.png)
 
 Model 1 is controlled by marker 1:
+
 ![](https://i.imgur.com/PJtsODC.png)
 
 Model 2 is controlled by marker 2:
+
 ![](https://i.imgur.com/I7sk83s.png)
 
 ## Load the models:
