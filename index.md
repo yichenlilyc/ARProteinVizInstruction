@@ -1,3 +1,4 @@
+# AR ProteinViz Instruction
 ## Preparation:
 1. The application can be used through the laptop or mobile devices. If you are using the IOS mobile devices, please use the Safari browser to open the application. (P.S. be sure to let the application have access to your camera)
 2. Go to [ARProteinViz](https://structureviz.wpi.edu/), log in with your WPI email address and password
