@@ -54,14 +54,11 @@ You can choose the space you would like to upload to:
 ### Maker based visualization
 1. Use marker to move and rotate the structure
 You can move/rotate the marker to move or rotate the protein structure
-2. On laptop:
-
-If you are visualizing the structure on your laptop, you can control the structure by mouse:
+2. If you are visualizing the structure **on laptop**, you can control the structure by mouse:
 - Hold left mouse button to drag and move
 - Hole right mouse button to rotate
 - Scroll to zoom in/out
-3. On mobile device:
-- If you are using the mobile device to do the visualization, you can use your fingers to control the structure:
+3. If you are using **the mobile device** to do the visualization, you can use your fingers to control the structure:
 - Use one finger to rotate
 - Use two fingers to drag and move, and zoom in/out
 
