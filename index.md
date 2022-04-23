@@ -1,9 +1,11 @@
 # ARProteinVizInstruction
 ## Preparation:
 1. The application can be used through the laptop or mobile devices. If you are using the IOS mobile devices, please use the Safari browser to open the application. (P.S. be sure to let the application have access to your camera)
-Go to [ARProteinViz](https://structureviz.wpi.edu/), log in with your WPI email address and password
-Before you start, please download and print the markers, the markers can be found here:
+2. Go to [ARProteinViz](https://structureviz.wpi.edu/), log in with your WPI email address and password
+3. Before you start, please download and print the markers, the markers can be found here:
+
 ![](https://i.imgur.com/PM95Loy.png)
+
 ![](https://i.imgur.com/yjwMcpu.png)
 
 Model 1 is controlled by marker 1:
